@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad Mahad
+- 👋 Hi, I’m @Muhammad Fahad
 - 👀 I’m interested in Computer 
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-fahadfij786/fahadfij786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fahadfij786/Muhammad Fahad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
